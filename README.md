@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davedev-ultron, I'm a Site Reliability Engineer
 - 👀 I’m interested in ...
-  - Cloud Technologies (AWS, GCP, Azure)
+  - Cloud Technologies (AWS, GCP, Azure) (Cloudwatch, EC2, Beanstalk, Lambda)
   - Kubernetes
   - Docker
   - Splunk
