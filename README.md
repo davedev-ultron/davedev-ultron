@@ -28,14 +28,25 @@
   - ThousandEyes
   - Dynatrace
   - Javascript, Java, Powershell
-  - Agile, Scrum
+  - Agile, Scrum, Kanban, PI Planning
   - IIS, Publishing
   - Visual Studio
   - Task Scheduler
   - Akamai mPulse
+  - JIRA, Confluence
   - Arduino
   - Rasberry Pi
   - Image Recognition (LIC Plate)
+
+-Some projects Ive built
+  - FDR
+  - Smart Monitor
+  - Grfana Email Report
+  - Workers for Grafana
+  - PCF Portal
+  - Akamai Portal
+  - Selenium Scripts
+  - Skills Portal NERD project
 - Some Certifications I have
   - SCRUM Master
   - Microsoft cert
