@@ -26,6 +26,10 @@
   - ThousandEyes
   - Dynatrace
   - Javascript, Java, Powershell
+  - Agile, Scrum
+- Some Certifications I have
+  - SCRUM Master
+  - Microsoft cert
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
