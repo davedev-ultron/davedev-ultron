@@ -37,7 +37,7 @@
   - Arduino
   - Rasberry Pi
   - Image Recognition (LIC Plate)
--Some projects Ive built
+- Some projects Ive built
   - FDR
   - Smart Monitor
   - Grfana Email Report
