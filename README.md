@@ -12,6 +12,7 @@
   - DevOps
   - CI/CD
   - SLIs/SLOs
+  - OpenCV
 - 🌱 I’m currently learning ...
   - AWS, Kubernetes, NFTs
 - 💞️ Some skills and experience I have:
@@ -37,6 +38,7 @@
   - Arduino
   - Rasberry Pi
   - Image Recognition (LIC Plate)
+  - OpenCV
 - Some projects Ive built
   - FDR
   - Smart Monitor
@@ -46,6 +48,7 @@
   - Akamai Portal
   - Selenium Scripts
   - Skills Portal NERD project
+  - OpenCV recognition
 - Some Certifications I have
   - SCRUM Master
   - Microsoft cert
