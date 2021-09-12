@@ -32,6 +32,7 @@
   - Agile, Scrum, Kanban, PI Planning
   - IIS
   - Deployment: Blue-Green, Canary, Feature Flags
+  - Triage, Production Incident Response, IRCR/RCA
   - Visual Studio
   - Task Scheduler
   - Akamai mPulse
