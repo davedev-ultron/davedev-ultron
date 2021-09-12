@@ -1,8 +1,31 @@
 - 👋 Hi, I’m @davedev-ultron, I'm a Site Reliability Engineer
 - 👀 I’m interested in ...
-AWS, Kubernetes, Docker, Splunk, Prometheus, Grafana, ELK, NFTs, Ehereum, SQL, MongoDB, C#, SRE, DevOps, CI/CD, SLIs/SLOs, Akamai
+  - Cloud Technologies (AWS, GCP, Azure)
+  - Kubernetes
+  - Docker
+  - Splunk
+  - ELK
+  - NFTs
+  - Ehereum
+  - C#
+  - SRE
+  - DevOps
+  - CI/CD
+  - SLIs/SLOs
 - 🌱 I’m currently learning ...
-AWS, Kubernetes, NFTs
+  - AWS, Kubernetes, NFTs
+- 💞️ Some skills and experience I have:
+  - Akamai
+  - Pivotal Cloud Foundry
+  - Grafana
+  - Prometheus
+  - SQL
+  - Mongo
+  - C#
+  - Selenium
+  - ThousandEyes
+  - Dynatrace
+  - Javascript, Java, Powershell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
