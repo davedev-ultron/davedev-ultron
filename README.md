@@ -30,7 +30,8 @@
   - Dynatrace
   - Javascript, Java, Powershell
   - Agile, Scrum, Kanban, PI Planning
-  - IIS, Publishing
+  - IIS
+  - Deployment: Blue-Green, Canary, Feature Flags
   - Visual Studio
   - Task Scheduler
   - Akamai mPulse
