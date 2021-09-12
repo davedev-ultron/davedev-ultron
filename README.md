@@ -23,6 +23,7 @@
   - SQL
   - Mongo
   - C#
+  - python
   - Selenium
   - ThousandEyes
   - Dynatrace
@@ -32,6 +33,9 @@
   - Visual Studio
   - Task Scheduler
   - Akamai mPulse
+  - Arduino
+  - Rasberry Pi
+  - Image Recognition (LIC Plate)
 - Some Certifications I have
   - SCRUM Master
   - Microsoft cert
