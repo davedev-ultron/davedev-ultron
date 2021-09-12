@@ -19,6 +19,7 @@
   - Pivotal Cloud Foundry
   - Grafana
   - Prometheus
+  - Influx Time Series DB
   - SQL
   - Mongo
   - C#
@@ -27,6 +28,10 @@
   - Dynatrace
   - Javascript, Java, Powershell
   - Agile, Scrum
+  - IIS, Publishing
+  - Visual Studio
+  - Task Scheduler
+  - Akamai mPulse
 - Some Certifications I have
   - SCRUM Master
   - Microsoft cert
