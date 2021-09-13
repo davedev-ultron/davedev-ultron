@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @davedev-ultron
-I'm a Site Reliability Engineer with more than 3 years of experience supporting multiple high-availabilty sites. Some of my resposibilities include incident response and triage, root cause analysis, monitoring and alerting, database administration and scrum master. I work on a team that is highly independent and thrives in a fast-paced environment, we work closely with business and technical partners across different teams. I like back end development but I've also dabbled in front-end development. My favorite stacks are C#, Java and python. I have eperience with SQL, MongoDB and InfluxDB. In my spare time I enjoy learning new technologies such as Docker, Kubernetes, Kafka, ECS, OpenCV and Blockchain. I'm passionate about automation, development, and self-growth. Im an NFT and blockchain enthusiast.
+I'm a Site Reliability Engineer with more than 3 years of experience supporting multiple high-availabilty sites. Some of my resposibilities include incident response and triage, root cause analysis, monitoring and alerting, database administration and scrum master. I work in a fast-paced environment on a team that is highly independent, we work closely with business and technical partners across different teams. I like back-end development but I've also dabbled in front-end development, my favorite stacks are C#, Java and python. I have eperience with SQL, MongoDB and InfluxDB. In my spare time I enjoy learning new technologies such as Docker, Kubernetes, Kafka, ECS, OpenCV and Blockchain. I'm passionate about automation, development, and self-growth. Im an NFT and blockchain enthusiast.
 
 - 👀 I’m interested in ...
   - Cloud Technologies (AWS, GCP, Azure) (Cloudwatch, EC2, Beanstalk, Lambda)
@@ -53,17 +53,17 @@ I'm a Site Reliability Engineer with more than 3 years of experience supporting 
   - Selenium Scripts
   - Skills Portal NERD project
   - OpenCV recognition
-- Some Certifications I have
+- 📇 Some Certifications I have ...
   - SCRUM Master
   - Microsoft cert
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### Goals for Q4 2020
+### Goals for Q4 2021
 - ☑️ AWS Certified Practitioner
 - ☑️ Learn about and leverage SLIs/SLOs
 - ✅ Master Docker and Kubernetes
-### Goals for Q1 2021
+### Goals for Q1 2022
 - ☑️ AWS Certified Developer
 
 | Date | Goals |
