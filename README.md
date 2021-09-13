@@ -1,23 +1,23 @@
 # 👋 Hi, I’m @davedev-ultron
-I'm a Site Reliability Engineer with more than 3 years of experience supporting multiple high-availabilty sites. Some of my resposibilities include incident response and triage, root cause analysis, monitoring and alerting, database administration and scrum master. I work in a fast-paced environment on a team that is highly independent, we work closely with business and technical partners across different teams. I like back-end development but I've also dabbled in front-end development, my favorite stacks are C#, Java and python. I have eperience with SQL, MongoDB and InfluxDB. In my spare time I enjoy learning new technologies such as Docker, Kubernetes, Kafka, ECS, OpenCV and Blockchain. I'm passionate about automation, development, and self-growth. Im an NFT and blockchain enthusiast.
+I'm a Site Reliability Engineer with more than 3 years of experience supporting multiple high-availabilty sites. Some of my resposibilities include incident response and triage, root cause analysis, monitoring and alerting, database administration and scrum master. I work in a fast-paced environment on a team that is highly independent, we work closely with business and technical partners across different teams. I like back-end development but I've also dabbled in front-end development, my favorite stacks are C#, Java and python. I have eperience with SQL, MongoDB and InfluxDB. In my spare time I enjoy learning new technologies such as Docker, Kubernetes, Kafka, ECS, OpenCV and Blockchain. I'm passionate about automation, development, and self-growth.
 
-- 👀 I’m interested in ...
-  - Cloud Technologies (AWS, GCP, Azure) (Cloudwatch, EC2, Beanstalk, Lambda)
-  - Kubernetes
-  - Docker
-  - Splunk
-  - ELK
-  - NFTs
-  - Ehereum
-  - C#
-  - SRE
-  - DevOps
-  - CI/CD
-  - SLIs/SLOs
-  - OpenCV
-- 🌱 I’m currently learning ...
+#### 👀 Some of my interests include ...
+- Cloud Technologies (AWS, GCP, Azure) (Cloudwatch, EC2, Beanstalk, Lambda)
+- Kubernetes
+- Docker
+- Splunk
+- ELK
+- NFTs
+- Ehereum
+- C#
+- SRE
+- DevOps
+- CI/CD
+- SLIs/SLOs
+- OpenCV
+#### 🌱 I’m currently learning ...
   - AWS, Kubernetes, NFTs
-- 💞️ Some skills and experience I have:
+#### 💞️ Some skills and experience I have:
   - Akamai
   - Pivotal Cloud Foundry
   - Grafana
@@ -43,7 +43,7 @@ I'm a Site Reliability Engineer with more than 3 years of experience supporting 
   - Rasberry Pi
   - Image Recognition (LIC Plate)
   - OpenCV
-- Some projects Ive built
+#### ✨ Some projects Ive built
   - FDR
   - Smart Monitor
   - Grfana Email Report
@@ -53,11 +53,11 @@ I'm a Site Reliability Engineer with more than 3 years of experience supporting 
   - Selenium Scripts
   - Skills Portal NERD project
   - OpenCV recognition
-- 📇 Some Certifications I have ...
+#### 📇 Some Certifications I have ...
   - SCRUM Master
   - Microsoft cert
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#### 💞️ I’m looking to collaborate on ...
+#### 📫 How to reach me ...
 
 ### Goals for Q4 2021
 - ☑️ AWS Certified Practitioner
